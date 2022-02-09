@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- James Makovics -->
+<!-- IST421 2/9/22 -->
+<title>Camping Trip Gear List</title>
+<camping_Trip_Gear_List>
+    <item>
+        <name>Flashlight</name>
+    </item>
+    <item>
+        <name>Hiking boots</name>
+    </item>
+    <item>
+        <name>Sleeping bag</name>
+    </item>
+    <item>
+        <name>Pocket knife</name>
+    </item>
+    <item>
+        <name>Bug spray</name>
+    </item>
+    <item>
+        <name>Compass</name>
+    </item>
+    <item>
+        <name>Hatchet</name>
+    </item>
+    <item>
+        <name>Lantern</name>
+    </item>
+    <item>
+        <name>Shovel</name>
+    </item>
+    <item>
+        <name>Tent</name>
+    </item>
+    <item>
+        <name>Bucket</name>
+    </item>
+    <item>
+        <name>Ground cloth</name>
+    </item>
+</camping_Trip_Gear_List>
