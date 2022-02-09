@@ -1,42 +1,41 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- James Makovics -->
 <!-- IST421 2/9/22 -->
-<title>Camping Trip Gear List</title>
-<camping_Trip_Gear_List>
+<Camping_Trip_Gear_List>
     <item>
-        <name>Flashlight</name>
+        Flashlight
     </item>
     <item>
-        <name>Hiking boots</name>
+        Hiking boots
     </item>
     <item>
-        <name>Sleeping bag</name>
+        Sleeping bag
     </item>
     <item>
-        <name>Pocket knife</name>
+        Pocket knife
     </item>
     <item>
-        <name>Bug spray</name>
+        Bug spray
     </item>
     <item>
-        <name>Compass</name>
+        Compass
     </item>
     <item>
-        <name>Hatchet</name>
+        Hatchet
     </item>
     <item>
-        <name>Lantern</name>
+        Lantern
     </item>
     <item>
-        <name>Shovel</name>
+        Shovel
     </item>
     <item>
-        <name>Tent</name>
+        Tent
     </item>
     <item>
-        <name>Bucket</name>
+        Bucket
     </item>
     <item>
-        <name>Ground cloth</name>
+        Ground cloth
     </item>
-</camping_Trip_Gear_List>
+</Camping_Trip_Gear_List>
