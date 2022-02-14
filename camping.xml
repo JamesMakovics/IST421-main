@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- James Makovics -->
-<!-- IST421 2/9/22 -->
+<!-- IST421 2/14/22 -->
 <!DOCTYPE Camping_Trip_Gear_List [
 <!ELEMENT Camping_Trip_Gear_List (item,item,item,item,item,item,item,item,item,item,item,item)>
 ]>
