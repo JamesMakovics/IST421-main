@@ -2,18 +2,7 @@
 <!-- James Makovics -->
 <!-- IST421 2/9/22 -->
 <!DOCTYPE Camping_Trip_Gear_List [
-<!ELEMENT item>
-<!ELEMENT item>
-<!ELEMENT item>
-<!ELEMENT item>
-<!ELEMENT item>
-<!ELEMENT item>
-<!ELEMENT item>
-<!ELEMENT item>
-<!ELEMENT item>
-<!ELEMENT item>
-<!ELEMENT item>
-<!ELEMENT item>
+<!ELEMENT Camping_Trip_Gear_List (item,item,item,item,item,item,item,item,item,item,item,item)>
 ]>
 <Camping_Trip_Gear_List>
     <item>
